@@ -1,6 +1,8 @@
 # elmorlabs-kth-usb-serial-interface
 Live plotting example with data from ElmorLabs KTH (K-type Thermometer) USB serial interface.
 
+Link to product: https://elmorlabs.com/product/elmorlabs-kth-usb-thermometer-with-usb/
+
 The project was created in and for Windows
 
 Python packages used:
